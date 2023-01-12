@@ -3,4 +3,7 @@ console.log("file index 1");
 console.log('====================================');
 
 
-console.log("add new line");
+function say(greeting) {
+    return `${greeting} Seanghor`
+}
+console.log(say("Good morning"))
