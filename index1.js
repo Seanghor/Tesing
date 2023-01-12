@@ -6,3 +6,4 @@ function say(greeting) {
     return `${greeting} Seanghor`
 }
 console.log(say("Good morning"))
+console.log(say("Good afternoon"))
