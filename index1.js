@@ -6,3 +6,4 @@ function hello(name) {
 const a = hello("seanghor")
 console.log(a);
 
+console.log("Hello Seanghor")
