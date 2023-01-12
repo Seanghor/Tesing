@@ -10,3 +10,9 @@ function hello(name) {
 }
 const a = hello("seanghor")
 console.log(a);
+
+function bye(name) {
+    return `bye ${name}`
+}
+const b = bye("seanghor")
+console.log(b);
