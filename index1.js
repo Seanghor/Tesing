@@ -16,3 +16,10 @@ function bye(name) {
 }
 const b = bye("seanghor")
 console.log(b);
+
+
+function bye2(name2) {
+    return `bye2 ${name2}`
+}
+const b2 = bye2("seanghor2")
+console.log(b2);
